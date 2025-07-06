@@ -1,4 +1,4 @@
-# ASSIGNMENT-1-TD-
+# ASSIGNMENT-1-TD
 
 This repo has two simple Python scripts.
 
